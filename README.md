@@ -1,0 +1,2 @@
+# C-SHARP-HELLO-WORLD
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/79b8fce5e028469ba92fddb2c33081e1)](https://app.codacy.com/manual/josphatwambugu77/C-SHARP-HELLO-WORLD?utm_source=github.com&utm_medium=referral&utm_content=wambugucoder/C-SHARP-HELLO-WORLD&utm_campaign=Badge_Grade_Settings)
